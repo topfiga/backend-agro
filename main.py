@@ -1,5 +1,4 @@
 from fastapi import FastAPI
-from agrobr import cepea
 
 app = FastAPI()
 
@@ -7,21 +6,6 @@ app = FastAPI()
 def home():
     return {"status": "ok"}
 
-@app.get("/preco/{produto}")
-def preco(produto: str):
-    try:
-        df = cepea.get(produto)
-
-        # pega o último preço
-        valor = df.iloc[-1]['preco']
-
-        return {
-            "produto": produto,
-            "preco": float(valor)
-        }
-
-    except Exception as e:
-        return {
-            "erro": "produto inválido ou falha no agrobr",
-            "detalhe": str(e)
-        }
+@app.get("/preco/milho")
+def milho():
+    return {"produto": "milho", "preco": 68.5}
