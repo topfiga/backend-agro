@@ -1,5 +1,4 @@
 fastapi
 uvicorn
-agrobr
 firebase-admin
 requests
