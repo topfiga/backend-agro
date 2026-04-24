@@ -6,6 +6,6 @@ app = FastAPI()
 def home():
     return {"status": "ok"}
 
-@app.get("/preco/milho")
-def milho():
-    return {"produto": "milho", "preco": 68.5}
+@app.get("/preco/{produto}")
+def preco(produto: str):
+    return {"produto": produto, "preco": 68.5}
