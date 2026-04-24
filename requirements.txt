@@ -2,5 +2,4 @@ fastapi
 uvicorn
 cloudscraper
 beautifulsoup4
-firebase-admin
-gunicor
+gunicorn
