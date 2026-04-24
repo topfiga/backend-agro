@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "calculadora-caipira",
-  "private_key_id": "27ce8a0b037d72e69a21c7c851a2e910cbffd1fc",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBgvW7Yvb3R+pP\nIsu9SosRqUgo3LArjNk9HOarew42zRMBE9QuUkovD5rCUUdF8Evow7+5GE7LyPbv\nN5N6F9ajHIKwBYKc2O157/DFf3zlHOJ/aaMpNCgEer8Xd6C8kUGA/YxupbSh7q3n\n4uQVG5+ixuYU7H261VKtmPbh/Vd7PJ9WPT3SG6tWOag9llbUwULsC1bQAKf4QRAi\nHecgRy3MUwkpoNMdToorPwEGkoIqs+/5U5bp5U31mNeUsIZ1Wsfpqht8lbtMPPlz\nz3lIoxPdtZO6+0Wye4UtYBsRi198fcMUV6kNIPXUeJyjrnshg/oIYqPpSQ7+U+cV\n39ZlZU19AgMBAAECggEAWzcL9eRUXYN8owjX2MZGf3C4HurH7/9Yd0IkSTicHqDU\nEHH0VlFbvoswe+AsJH98iJ+cw/b9TXnRTDl6Ptb1ybUqtSYjxyNJ7Wx4pd/OU4Em\nEsEMs+Nt6Y6ifMFa9wfRRKg/hfh+CMalGuUMdharTONMmRhQu7zKWCH+XdA5aFD9\nLkeIxH6i9nNeRZfZNYrWc2VVL/ofxD9AX/JPXcXFoBZTq9E0sHOBw27cb0hbywnU\nRElkX4SB8g20kJgj/xPwuJMb3YrTmZPJL0sZsmPxJCNsoyiAAAWJR9IaH9S1axV2\n6m6dUJHAx1ZSTVhAyf7MXxc3tEABkoNs9qXjRv1VUQKBgQDlQPGNo8qQtPX20wSB\nkKQ38a2qOQ9H+WlFlQAYmLLfZeI+SJ+/PSSJrgtSAPszBmWYmohmEwm627jZFmCw\nloHlYS64il1eVqz6b3XYdGdhNiDYkmLe3mtO9JEZOmv97IgsTKEj6VtRD1X9kBpb\n51Soa1CLVW7pN+o8GZzUv+moPwKBgQDYFoQljoy1Sc0mlejKHe1G7HqS/RwjP8mZ\nTOMTHJGoz9FSGpuTNyzeDq6hNvEDvFdc/OUKYV/0XlP01A8ox4t8kQCah4/Dpcft\nOWrS3qlBSeaZfgHzeEwyy+PoRHQYrBPvjPZl2uNMuHryUC9E1NKNQ4rDhl0Iax2Z\nIn2Yfph7QwKBgDrwbGm+z2hOreHMNJ9e4WlkoAJgcxZNAAyclw67y1j156mdoDxZ\nathev5hQmkRvA5WtPR4JDPpWXPqq7ybXOwQO7SUSpZiIbiZgm4qPurhaYy1qzTKB\nOlNtOxSiWXtJ4WSKOu9xokF/0NrEvpIcMj6ugGGiEEazUmwrJY/o2xifAoGAdhyo\nkpa+VoFGf2bFXWTKQ1ATF7D95k6BdSfPnqyo+WrOcWBV1Tv9bEr+LOSJDI+v+QXK\nc8gR2NKOdW5L8vBPUAE6IT0j2b8N7p7JwwUt4p/wScnUay5ACCvmIRj5lFrKcs/M\nBpSEVXUozrYBgFAL3mcivAj/ZRCXlxKBMA9SbV0CgYEAwNRt8UNcuIW/EzFDvVam\nWrfCMgxjyrusgEFZm3LpdWsLFEyEed63EPhItoXetWuV1Co/PJ+NHIqH+bC0hoTG\n8LsEeiDtwr2wi/nL5GYT+sBgtohLzLbVgm6DjhyZgoFA66edR7BbYWhrKcA8NaH3\na6UML87UoQcVJG3UwQAPMBI=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-fbsvc@calculadora-caipira.iam.gserviceaccount.com",
-  "client_id": "109474912796295934307",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40calculadora-caipira.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com" 
-}
+
