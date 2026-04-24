@@ -5,7 +5,10 @@ from firebase_admin import credentials, firestore
 app = FastAPI()
 
 # inicializa firebase (usa variável de ambiente depois)
-cred = credentials.Certificate("firebase-key.json")
+import os
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+cred = credentials.Certificate(os.path.join(BASE_DIR, "firebase-key.json"))
 firebase_admin.initialize_app(cred)
 
 db = firestore.client()
