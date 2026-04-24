@@ -1,6 +1,3 @@
 fastapi
 uvicorn
 agrobr
-pandas
-requests
-beautifulsoup4
