@@ -1,5 +1,5 @@
 from fastapi import FastAPI, HTTPException
-import agrobr
+import requests
 
 app = FastAPI()
 
