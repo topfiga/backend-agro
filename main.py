@@ -12,7 +12,7 @@ try:
     from agrobr import preco as agro_preco
 except ImportError:
     agro_preco = None
-
+  
 app = FastAPI()
 
 app.add_middleware(
